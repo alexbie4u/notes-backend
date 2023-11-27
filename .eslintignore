@@ -1,3 +1,9 @@
 build
 .eslintrc.js
 mongo.js
+reverse.test.js
+for_testing.js
+logger.js
+teardown.js
+notes.js
+user.js
